@@ -1,0 +1,24 @@
+{
+    "checkUser": [
+        {
+            "userId": "ssbbgc",
+            "warehouseId": "DE"
+        },
+        {
+            "userId": "ssbbgc",
+            "warehouseId": "DT"
+        }
+    ],
+    "userPermission": [
+        {
+            "userId": "ssbbgc",
+            "warehouseId": "DE",
+            "activityAreas": ["St1", "St2"]
+        },
+        {
+            "userId": "ssbbgc",
+            "warehouseId": "DT",
+            "activityAreas": ["St3", "St4"]
+        }
+    ]
+}
